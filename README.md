@@ -1,2 +1,2 @@
 # VidFlow
-Consumindo e tratando dados de uma API com JavaScript
+Node.js e terminal: dominando o ambiente de desenvolvimento front-end
